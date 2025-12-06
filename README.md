@@ -20,8 +20,6 @@ This comprehensive financial model provides an intrinsic valuation of Amazon.com
 
 ### Key Valuation Metrics
 
-![Overview Dashboard](https://github.com/yourusername/amazon-dcf-model/blob/main/screenshots/overview.png)
-
 | Metric | Value |
 |--------|-------|
 | **Fair Value per Share (DCF)** | $222.26 |
@@ -171,8 +169,6 @@ Amazon's durable competitive advantages include:
 ---
 
 ## 🔬 WACC Calculation
-
-![DCF Valuation Dashboard](https://github.com/yourusername/amazon-dcf-model/blob/main/screenshots/dcf-valuation.png)
 
 ### Capital Structure
 
