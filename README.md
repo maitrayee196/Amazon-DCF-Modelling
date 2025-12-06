@@ -410,10 +410,9 @@ This model was developed as part of advanced financial modeling practice, demons
 
 Questions, suggestions, or found an error? Feel free to:
 
-- Open an issue on GitHub
-- Connect with me on [LinkedIn](#)
-- Email: your.email@example.com
-
+- Open an issue on GitHub 
+- Connect with me on https://www.linkedin.com/in/maitrayee-vishnu/
+- Email: maitrayeeanandvishnu@gmail.com
 ---
 
 ## 📜 License
